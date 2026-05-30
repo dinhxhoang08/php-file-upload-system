@@ -1,0 +1,11 @@
+tôi có file template "HỒ SƠ LÝ LỊCH PHƯƠNG TIỆN HÀ NAM.docx". 
+1. hãy điền vào các ô ở dòng "Số chuyến xe trong tháng" từ tháng 2 -> 10 với giá trị random 19-28
+2. tính "Km xe chạy trong tháng" từ tháng 2->10 = a*300 . trong đó a=số chuyến xe trong tháng đó.
+3. tính dòng "Km xe chạy lũy kế": vd:
+- tính tháng 2 = Km xe chạy lũy kế tháng trước (tháng 1) + số km xe chạy trong tháng 2.
+- tính tháng 3 = Km xe chạy lũy kế tháng trước (tháng 2) + số km xe chạy trong tháng 3.
+...
+4. tính "Số chuyến xe lũy kế" cũng giống cách tính Km xe chạy lũy kế. vd:
+• tính Số chuyến xe lũy kế tháng 2 = Số chuyến xe lũy kế tháng trước (tháng 1) + Số chuyến xe trong tháng 2
+• tính Số chuyến xe lũy kế tháng 3 = Số chuyến xe lũy kế tháng trước (tháng 2) + Số chuyến xe trong tháng 3
+...
